@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  font-family: 'Bree Serif';
+}
+
+div {
+  height: 100vh;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #f0bb03;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+
+p {
+  color: white;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+button {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+}
